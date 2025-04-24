@@ -1,0 +1,35 @@
+2025/04/22-09:38:48.252 850 Reusing MANIFEST C:\Users\ACER\AppData\Local\Temp\flutter_tools.412024d4\flutter_tools_chrome_device.d4ac0ff\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/04/22-09:38:48.254 850 Recovering log #42
+2025/04/22-09:38:48.254 850 Reusing old log C:\Users\ACER\AppData\Local\Temp\flutter_tools.412024d4\flutter_tools_chrome_device.d4ac0ff\Default\EdgeCoupons/coupons_data.db/000042.log 
+2025/04/22-09:38:48.256 850 Delete type=0 #4
+2025/04/22-09:38:48.256 850 Delete type=0 #7
+2025/04/22-09:38:48.256 850 Delete type=2 #8
+2025/04/22-09:38:48.256 850 Delete type=0 #10
+2025/04/22-09:38:48.257 850 Delete type=2 #11
+2025/04/22-09:38:48.257 850 Delete type=0 #13
+2025/04/22-09:38:48.257 850 Delete type=2 #14
+2025/04/22-09:38:48.257 850 Delete type=0 #16
+2025/04/22-09:38:48.300 850 Delete type=2 #17
+2025/04/22-09:38:48.313 850 Delete type=0 #19
+2025/04/22-09:38:48.315 850 Delete type=2 #21
+2025/04/22-09:38:48.316 850 Delete type=0 #23
+2025/04/22-09:38:48.347 850 Delete type=2 #24
+2025/04/22-09:38:48.409 850 Delete type=0 #26
+2025/04/22-09:38:48.426 850 Delete type=2 #27
+2025/04/22-09:38:48.428 850 Delete type=0 #29
+2025/04/22-09:38:48.428 850 Delete type=2 #30
+2025/04/22-09:38:48.441 850 Delete type=0 #32
+2025/04/22-09:38:48.442 850 Delete type=0 #36
+2025/04/22-09:38:48.442 850 Delete type=0 #39
+2025/04/22-09:38:49.689 2b50 Level-0 table #46: started
+2025/04/22-09:38:49.733 2b50 Level-0 table #46: 670945 bytes OK
+2025/04/22-09:38:49.735 2b50 Delete type=0 #42
+2025/04/22-09:38:49.736 2b50 Compacting 4@0 + 1@1 files
+2025/04/22-09:38:49.751 2b50 Generated table #47@0: 4 keys, 670864 bytes
+2025/04/22-09:38:49.751 2b50 Compacted 4@0 + 1@1 files => 670864 bytes
+2025/04/22-09:38:49.753 2b50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/22-09:38:49.754 2b50 Delete type=2 #34
+2025/04/22-09:38:49.754 2b50 Delete type=2 #37
+2025/04/22-09:38:49.754 2b50 Delete type=2 #40
+2025/04/22-09:38:49.754 2b50 Delete type=2 #43
+2025/04/22-09:38:49.754 2b50 Delete type=2 #46
