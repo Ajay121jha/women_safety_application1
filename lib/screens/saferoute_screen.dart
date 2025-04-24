@@ -8,7 +8,9 @@ class SafeRouteScreen extends StatefulWidget {
   @override
   _SafeRouteScreenState createState() => _SafeRouteScreenState();
 }
-
+ final url = Uri.parse(
+      "https://maps.googleapis.com/maps/api/directions/json?origin=$start&destination=$end&key=AIzaSyBYcJfrlaPzs9YTI0XhGvDn9A5oaNQVB5M",
+    );
 class _SafeRouteScreenState extends State<SafeRouteScreen> {
   late GoogleMapController _mapController;
   LatLng? _currentPosition;
